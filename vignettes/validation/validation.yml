@@ -11,3 +11,4 @@ usernames:
 validation_files:
 - spec_001.md
 - test_case_001.md
+- test_code_001.R
