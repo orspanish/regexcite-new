@@ -10,3 +10,4 @@ usernames:
     role: Guinea Pig
 validation_files:
 - spec_001.md
+- test_case_001.md
