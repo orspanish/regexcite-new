@@ -2,10 +2,10 @@
 #' @editor Olivia Spanish
 #' @editDate 2024-09-25
 #' @riskAssessment
-#' 1.1:1, Low Risk, Low Impact
-#' 1.2:1, Low Risk, Low Impact
-#' 1.3:1, Low Risk, Low Impact
-#' 1.4:1, Low Risk, Low Impact
+#' 1.1: Low Risk, Low Impact
+#' 1.2: Low Risk, Low Impact
+#' 1.3: Low Risk, Low Impact
+#' 1.4: Low Risk, Low Impact
 
 + _Specifications_
   + 1.1 Make sure the function splits a single string into multiple strings
