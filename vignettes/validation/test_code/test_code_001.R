@@ -8,7 +8,7 @@ test_that("T1.1", {
   expect_equal(str_split_one("a,b,c", ","), c("a", "b", "c"))
 })
 
-test_that("T1.1", {
+test_that("T1.2", {
   expect_error(str_split_one(c("a,b","c,d"), ","))
 })
 
