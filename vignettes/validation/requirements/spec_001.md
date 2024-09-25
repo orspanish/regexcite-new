@@ -6,7 +6,6 @@
 #' 1.2:1, Low Risk, Low Impact
 #' 1.3:1, Low Risk, Low Impact
 #' 1.4:1, Low Risk, Low Impact
-#' 1.5:1, Low risk, Low Impact
 
 + _Specifications_
   + 1.1 Make sure the function splits a single string into multiple strings
